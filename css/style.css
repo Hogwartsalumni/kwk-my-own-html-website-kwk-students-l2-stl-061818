@@ -1,0 +1,50 @@
+
+
+body {
+  background-color: #F0FFFF;
+  
+}
+
+h1 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 90px;
+}
+
+h2 {
+  font-family: 'Josefin Slab', serif;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+
+}
+
+ul {
+  font-family: 'Raleway', sans-serif;
+
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-family: 'Amatic SC';
+  font-size: 40px;
+}
+
+a:hover {
+  text-decoration: none;
+  background-color: #A14B9C;
+}
+
+.navigation {
+  display: inline;
+  padding: 30px;
+}
+
+.navbar {
+  height: 49px;
+  width: 100%;
+  position: fixed;
+  background-color: purple;
+  top: 0;
+}
